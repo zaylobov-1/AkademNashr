@@ -1,3 +1,9 @@
+
+*:focus {
+  outline: 2px dotted #ff7500;
+  outline-offset: 3px;
+}
+
 body {
   font-family: "Roboto", "Arial" sans-serif;
   font-family: "Roboto Condensed", "Arial" sans-serif;
